@@ -9,7 +9,7 @@ A powerful AI-powered content generation platform with 25+ templates for blogs, 
 
 ## 🎥 Video Demonstration
 
-https://github.com/user-attachments/assets/2122540b-fcb3-4428-85e1-80bf2e38f371
+https://github.com/user-attachments/assets/2332d928-9c13-4d9f-8f84-c78749f099ca
 
 ## ✨ Features
 - 25+ AI content templates (Blog, YouTube, Social Media)
