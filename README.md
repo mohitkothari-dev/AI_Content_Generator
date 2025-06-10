@@ -30,7 +30,7 @@ https://github.com/user-attachments/assets/2332d928-9c13-4d9f-8f84-c78749f099ca
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ai-content-generator.git
+git clone [https://github.com/yourusername/ai-content-generator.git](https://github.com/mohitkothari-dev/AI_Content_Generator.git)
 
 # Install dependencies
 npm install
