@@ -1,7 +1,4 @@
 # AI Content Generator
-
-![Project Banner](https://github.com/mohitkothari-dev/MediaFiles/blob/main/AI_Content_generator.png?raw=true) <!-- Replace with your screenshot/video thumbnail -->
-
 [![Next.js](https://img.shields.io/badge/Next.js-14.2.4-000000?style=flat&logo=next.js)](https://nextjs.org/)
 [![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-0.31.2-blue)](https://orm.drizzle.team/)
 
